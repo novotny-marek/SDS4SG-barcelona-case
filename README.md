@@ -10,6 +10,14 @@ at Charles University in Prague and it is also available at my personal [Github]
 - spatial data analysis
 - spatial clustering
 
+## Environment Installation
+
+The environment is handled by (pixi)[https://pixi.sh].
+
+```bash
+pixi install
+```
+
 ### References
 
 Rey, Sergio, Dani Arribas-Bel, and Levi John Wolf. 2023. Geographic Data
